@@ -28,8 +28,8 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FKv-m6-4Ns">
-                                <rect key="frame" x="163" y="162" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="171" y="162" width="31" height="30"/>
+                                <state key="normal" title="Sum"/>
                                 <connections>
                                     <action selector="Button:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VdZ-Oy-23K"/>
                                 </connections>
